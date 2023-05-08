@@ -1,3 +1,6 @@
+#	Please take care of missing data present in the “Data.csv” file using python module “sklearn.impute” and its methods, also collect all the data that has “Salary” less than “70,000”.
+
+
 import numpy as np
 import pandas as pd
 from sklearn.impute import SimpleImputer
